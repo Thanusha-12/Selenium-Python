@@ -5,7 +5,7 @@ assert (ItemsIncart == 0)
 
 #try,except
 try:
-    with open("test for R&W",'r') as reader:  #open read.txt
+    with open("../Python-Intermediate Level/test for R&W", 'r') as reader:  #open read.txt
         reader.read()
 except:
     print("Exception handling")

@@ -17,12 +17,10 @@ def sleep():
 
 sleep()
 
-
 # decorate the ordinary function
 # decorated_func = rest(sleep)
 # call the decorated function
 # decorated_func()
-
 
 def make_pretty(func):
     def inner():

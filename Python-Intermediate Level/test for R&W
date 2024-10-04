@@ -20,4 +20,4 @@ class SidebarNavigator:
             self.find_sidenav()
         option = self.sidenav.find_element(By.XPATH, "//div[@data-cat-id='child_of_951'], 'Dental Hygiene ')]")
         option.click()
-    time.sleep(3)
+    time.sleep(3)Now the file has more content!Now the file has more content!
